@@ -101,7 +101,7 @@ void input_MF(vector<User> &vec_users, vector<Item> &vec_items){
     }
 
     ifstream ifs(input_file);
-    if(!ifs){//開かなかった時
+    if(!ifs){
         cout<<"Error! File can not be opened"<<endl;
     }
 
