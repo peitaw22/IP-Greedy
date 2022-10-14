@@ -27,11 +27,11 @@ Solving Diversity-Aware Maximum Inner Product Search Efficiently and Effectively
 ## Citation
 If you use our implementation, please cite the following paper.
 ```
-@inproceedings{?,  
+@inproceedings{hirata2022solving,  
     title={Solving Diversity-Aware Maximum Inner Product Search Efficiently and Effectively},  
     author={Hirata, Kohei and Amagata, Daichi and Hara, Takahiro and Fujita, Sumio},  
-    booktitle={RecSys},  
-    pages={?--?},  
+    booktitle={Proceedings of the 16th ACM Conference on Recommender Systems},  
+    pages={198--207},  
     year={2022}  
 }
 ```
